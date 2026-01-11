@@ -10,16 +10,16 @@
 
 <img align="right" alt="Programming GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNkcDh0anUxYWRreGQ3dXViZHU1dDJpNDhvOXlmZmt4OWNrajh3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif" width="285" height="380" />
 
-Hello, I'm Sylvia — a passionate **full-stack developer** with a strong interest in **AI/ML and robotics**. I'm currently pursuing my Master's degree in Computer Science at  **University of Colorado, Boulder**. I enjoy building systems that connect software, intelligence, and real-world interaction, and always excited to explore ideas across different domains.  
+Hello, I'm Sylvia — a passionate **full-stack developer** with a strong interest in **AI/ML and robotics**. I'm currently pursuing my **Master's degree in Computer Science at  University of Colorado, Boulder**. I enjoy building systems that connect software, intelligence, and real-world interaction, and always excited to explore ideas across different domains.  
 
   
-My background spans **frontend and backend engineering, deep learning, and simulation-based robotics**, and I enjoy designing systems that are both scalable and experimentally grounded.
+My background spans **frontend and backend engineering, deep learning, and simulation-based robotics**, and I enjoy designing systems that are both **scalable and experimentally grounded**.
 <br>
 
 
-- 🔭 I’m currently working on developing **full-stack applications and AI-powered tools**.
-- 🌱 I’m continuously learning new technologies in **web development, deep learning model, NLP and robotic simulation environmnets**.
-- 👯 I’m looking to collaborate on **creative, cross-disciplinary projects**.
+- 🔭 Currently building **full-stack applications and AI-powered tools**.
+- 🌱 Actively learning **modern web development, deep learning model, NLP and robotic simulation environmnets**.
+- 👯 Open to collaborating on **creative, cross-disciplinary projects**.
 
 ## 🚀 Tech Stack
 
